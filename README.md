@@ -48,8 +48,9 @@ This application uses the OpenWeatherMap API to fetch weather data. To run this 
 
 ## Screenshots
 
-![Bhubaneswar-weather](https://github.com/user-attachments/assets/32c4cb08-6d22-4da7-9612-e8d6e857b3ad)
-![Patna-weather](https://github.com/user-attachments/assets/48ed4cfa-9730-4d33-a4b0-81a37082c4e9)
+![Bhubaneswar-weather](https://github.com/user-attachments/assets/b2a3ab3e-3d96-400a-bf60-6ef1b1dcf039)
+![Patna-weather](https://github.com/user-attachments/assets/c830449f-000b-44af-9012-1283b59fed90)
+
 
 ## Author
 
